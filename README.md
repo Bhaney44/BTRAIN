@@ -3,5 +3,5 @@ The BTrain is a smart contract platform with an API and distributed ledger. User
 
 There is a max supply of 19.9 million lions. If you send Lions, you get twice as many Lions in return. The BTrain is a quantum secure blockchain. Additionally, there are no fees, using the blockchain is free.
 
-Copyright Roar 2021
+Copyright BTrain 2021
 MIT License - See License
